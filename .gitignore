@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+checkpoints/
+outputs/
+ADDED_OPTIONS.md
+EXPERIMENT_PLAN.md
+PERFORMANCE_IMPROVEMENT_IDEAS_KO.md
